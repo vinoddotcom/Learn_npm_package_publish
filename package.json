@@ -1,5 +1,5 @@
 {
-  "name": "learning-npm-package",
+  "name": "learning-npm-package-epf",
   "version": "1.0.1",
   "description": "Learn how to publish a package",
   "main": "lib/index.js",

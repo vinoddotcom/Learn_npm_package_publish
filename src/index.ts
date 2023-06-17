@@ -1,13 +1,17 @@
-export class Log {
-    static success(msg: string) {
-        console.log(`%c ${msg}`, 'color: green');
+function printSmileyEmoji(name: string): void {
+    const emoji = [
+      '  *****  ',
+      ' *     * ',
+      '* o   o *',
+      '*   ^   *',
+      ' * \\_/ * ',
+      '  *****  '
+    ];
+  
+    for (let i = 0; i < emoji.length; i++) {
+      console.log(emoji[i]);
     }
-
-    static danger(msg: string) {
-        console.log(`%c ${msg}`, 'color: red');
-    }
-
-    static info(msg: string) {
-        console.log(`%c ${msg}`, 'color: black; background: yellow');
-    }
-}
+    console.log("hello, " + name);
+  }
+  
+  export default printSmileyEmoji

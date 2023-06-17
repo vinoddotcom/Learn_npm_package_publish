@@ -1,5 +1,5 @@
 {
-  "name": "codersgyan-colorify",
+  "name": "learning_npm_package",
   "version": "1.0.0",
   "description": "A library to colorify your console logs",
   "main": "lib/index.js",
@@ -13,13 +13,12 @@
     "url": "git+https://github.com/codersgyan/codersgyan-colorify.git"
   },
   "keywords": [
-    "console log colors",
-    "colorify logs"
+   "How to make a package"
   ],
-  "author": "Rakesh K <codersgyan@gmail.com>",
+  "author": "EPF",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codersgyan/codersgyan-colorify/issues"
+    "url": "https://github.com/vinoddotcom/Learn_npm_package_publish/issues"
   },
   "homepage": "https://github.com/codersgyan/codersgyan-colorify#readme",
   "devDependencies": {

@@ -1,6 +1,6 @@
 {
   "name": "learning-npm-package-epf",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Learn how to publish a package",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codersgyan/codersgyan-colorify.git"
+    "url": "git+https://github.com/vinoddotcom/Learn_npm_package_publish"
   },
   "keywords": [
    "How to make a package"
